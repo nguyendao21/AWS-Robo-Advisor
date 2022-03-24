@@ -24,8 +24,13 @@ You’ll use [AWS](https://aws.amazon.com/) to launch the bot and the following 
 
 ## Usage
 
+**An example of deploying Amazon Lex bot without Lambda function
+
 https://user-images.githubusercontent.com/94591580/159200314-2c25c9da-37b4-4997-9723-bd1e80e76755.mp4
 
+**An example of deploying Amazon Lex bot with Lambda function 
+
+https://user-images.githubusercontent.com/94591580/159816162-43b6d5e7-905e-4017-b5ac-6d07d2aa0e96.mp4
 
 
 
